@@ -1,0 +1,1 @@
+Welcome!This is my first project for the Odin Project. This assingment is supposed to test my skills in using Github repositories, Git to navigate the directories and HTML to create webpages. Shoutout to The Odin Projecty and everyone who has supported me along the way.
